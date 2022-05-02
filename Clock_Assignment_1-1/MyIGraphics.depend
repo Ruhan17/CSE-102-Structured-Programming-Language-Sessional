@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1529482741 source:d:\myigraphics\main.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<Windows.h>
+	<math.h>
+
+1528035018 d:\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1528873031 source:d:\myigraphics\text.cpp
+	"iGraphics.h"
+
+1529482741 source:d:\my_clock\main.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<Windows.h>
+	<math.h>
+
+1528035018 d:\my_clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
